@@ -1,6 +1,8 @@
 # Sorts-visualisation
 List of sorts:
+
 selection sort
+
 bubble sort
 
 graphics:
